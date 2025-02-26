@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PinMap schemaVersion="1.6" xmlns="http://www.ni.com/TestStand/SemiconductorModule/PinMap.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Instruments>
+		<NIDCPowerInstrument name="PPS_4110" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C1_S01" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C1_S02" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C1_S03" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C1_S04" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIScopeInstrument name="SCOPE_5172_C1_S01" numberOfChannels="8" group="Scope" />
+		<NIScopeInstrument name="SCOPE_5172_C1_S02" numberOfChannels="8" group="Scope" />
+		<NIFGenInstrument name="FGEN_5433_C1_S01" numberOfChannels="2" />
+		<NIFGenInstrument name="FGEN_5433_C1_S02" numberOfChannels="2" />
+		<NIDigitalPatternInstrument name="HSD_6571_C1_S01" numberOfChannels="32" group="Digital" />
+		<NIDigitalPatternInstrument name="HSD_6571_C1_S02" numberOfChannels="32" group="Digital" />
+		<NIRelayDriverModule name="RELAY_2567_C1_S01" numberOfControlLines="64" />
+		<NIDCPowerInstrument name="SMU_4137_C2_S01" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C2_S02" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C2_S03" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C2_S04" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIScopeInstrument name="SCOPE_5172_C2_S01" numberOfChannels="8" group="Scope" />
+		<NIScopeInstrument name="SCOPE_5172_C2_S02" numberOfChannels="8" group="Scope" />
+		<NIFGenInstrument name="FGEN_5433_C2_S01" numberOfChannels="2" />
+		<NIFGenInstrument name="FGEN_5433_C2_S02" numberOfChannels="2" />
+		<NIDigitalPatternInstrument name="HSD_6571_C2_S01" numberOfChannels="32" group="Digital" />
+		<NIDigitalPatternInstrument name="HSD_6571_C2_S02" numberOfChannels="32" group="Digital" />
+		<NIRelayDriverModule name="RELAY_2567_C2_S01" numberOfControlLines="64" />
+		<NIDCPowerInstrument name="SMU_4137_C3_S01" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C3_S02" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C3_S03" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C3_S04" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIScopeInstrument name="SCOPE_5172_C3_S01" numberOfChannels="8" group="Scope" />
+		<NIScopeInstrument name="SCOPE_5172_C3_S02" numberOfChannels="8" group="Scope" />
+		<NIFGenInstrument name="FGEN_5433_C3_S01" numberOfChannels="2" />
+		<NIFGenInstrument name="FGEN_5433_C3_S02" numberOfChannels="2" />
+		<NIDigitalPatternInstrument name="HSD_6571_C3_S01" numberOfChannels="32" group="Digital" />
+		<NIDigitalPatternInstrument name="HSD_6571_C3_S02" numberOfChannels="32" group="Digital" />
+		<NIRelayDriverModule name="RELAY_2567_C3_S01" numberOfControlLines="64" />
+		<NIDCPowerInstrument name="SMU_4137_C4_S01" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C4_S02" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C4_S03" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIDCPowerInstrument name="SMU_4137_C4_S04" numberOfChannels="1">
+			<ChannelGroup name="CommonDCPowerChannelGroup" />
+		</NIDCPowerInstrument>
+		<NIScopeInstrument name="SCOPE_5172_C4_S01" numberOfChannels="8" group="Scope" />
+		<NIScopeInstrument name="SCOPE_5172_C4_S02" numberOfChannels="8" group="Scope" />
+		<NIFGenInstrument name="FGEN_5433_C4_S01" numberOfChannels="2" />
+		<NIFGenInstrument name="FGEN_5433_C4_S02" numberOfChannels="2" />
+		<NIDigitalPatternInstrument name="HSD_6571_C4_S01" numberOfChannels="32" group="Digital" />
+		<NIDigitalPatternInstrument name="HSD_6571_C4_S02" numberOfChannels="32" group="Digital" />
+		<NIRelayDriverModule name="RELAY_2567_C4_S01" numberOfControlLines="64" />
+	</Instruments>
+	<Pins>
+		<DUTPin name="C1" />
+		<DUTPin name="C2" />
+		<DUTPin name="C3" />
+		<DUTPin name="C4" />
+		<DUTPin name="C5" />
+		<DUTPin name="C6" />
+		<DUTPin name="C7" />
+		<DUTPin name="C8" />
+		<DUTPin name="G1" />
+		<DUTPin name="C9" />
+		<DUTPin name="C10" />
+		<DUTPin name="C11" />
+		<DUTPin name="C12" />
+		<DUTPin name="C13" />
+		<DUTPin name="C14" />
+		<DUTPin name="C15" />
+		<DUTPin name="C16" />
+		<DUTPin name="G2" />
+		<SystemPin name="VRelay" />
+	</Pins>
+	<PinGroups></PinGroups>
+	<Relays>
+		<SiteRelay name="PPMU_C1" />
+		<SiteRelay name="PPMU_C2" />
+		<SiteRelay name="PPMU_C3" />
+		<SiteRelay name="PPMU_C4" />
+		<SiteRelay name="PPMU_C5" />
+		<SiteRelay name="PPMU_C6" />
+		<SiteRelay name="PPMU_C7" />
+		<SiteRelay name="PPMU_C8" />
+		<SiteRelay name="PPMU_C9" />
+		<SiteRelay name="PPMU_C10" />
+		<SiteRelay name="PPMU_C11" />
+		<SiteRelay name="PPMU_C12" />
+		<SiteRelay name="PPMU_C13" />
+		<SiteRelay name="PPMU_C14" />
+		<SiteRelay name="PPMU_C15" />
+		<SiteRelay name="PPMU_C16" />
+		<SiteRelay name="SMU_G1" />
+		<SiteRelay name="G1_GND" />
+		<SiteRelay name="G2_GND" />
+		<SiteRelay name="FGEN" />
+		<SiteRelay name="SCOPE_1" />
+		<SiteRelay name="SCOPE_2" />
+		<SiteRelay name="SMU_C1" />
+		<SiteRelay name="SMU_C2" />
+		<SiteRelay name="SMU_C3" />
+		<SiteRelay name="SMU_C4" />
+		<SiteRelay name="SMU_C5" />
+		<SiteRelay name="SMU_C6" />
+		<SiteRelay name="SMU_C7" />
+		<SiteRelay name="SMU_C8" />
+		<SiteRelay name="SMU_C9" />
+		<SiteRelay name="SMU_C10" />
+		<SiteRelay name="SMU_C11" />
+		<SiteRelay name="SMU_C12" />
+		<SiteRelay name="SMU_C13" />
+		<SiteRelay name="SMU_C14" />
+		<SiteRelay name="SMU_C15" />
+		<SiteRelay name="SMU_C16" />
+	</Relays>
+	<Sites>
+		<Site siteNumber="0" />
+		<Site siteNumber="1" />
+		<Site siteNumber="2" />
+		<Site siteNumber="3" />
+		<Site siteNumber="4" />
+		<Site siteNumber="5" />
+		<Site siteNumber="6" />
+		<Site siteNumber="7" />
+		<Site siteNumber="8" />
+		<Site siteNumber="9" />
+		<Site siteNumber="10" />
+		<Site siteNumber="11" />
+		<Site siteNumber="12" />
+		<Site siteNumber="13" />
+		<Site siteNumber="14" />
+		<Site siteNumber="15" />
+	</Sites>
+	<Connections></Connections>
+</PinMap>
