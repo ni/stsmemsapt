@@ -18,7 +18,6 @@
 		<Item Name="RH_DCPower_0V_Stop.vi" Type="VI" URL="../VIs/RH_DCPower_0V_Stop.vi"/>
 		<Item Name="RH_DCPower_Close.vi" Type="VI" URL="../VIs/RH_DCPower_Close.vi"/>
 		<Item Name="RH_DCPower_Configure.vi" Type="VI" URL="../VIs/RH_DCPower_Configure.vi"/>
-		<Item Name="RH_DCPower_ConfigureSequence.vi" Type="VI" URL="../VIs/RH_DCPower_ConfigureSequence.vi"/>
 		<Item Name="RH_DCPower_ConfigureSequenceCapDC.vi" Type="VI" URL="../VIs/RH_DCPower_ConfigureSequenceCapDC.vi"/>
 		<Item Name="RH_DCPower_ConfigureSequenceCurrent.vi" Type="VI" URL="../VIs/RH_DCPower_ConfigureSequenceCurrent.vi"/>
 		<Item Name="RH_DCPower_Fetch.vi" Type="VI" URL="../VIs/RH_DCPower_Fetch.vi"/>
