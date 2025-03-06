@@ -20,7 +20,7 @@ There are two pinmap files in [Example\TestProgram\SupportingMaterials\PinMap](h
  - 2 SMU channels named SMU0 and SMU1 in the pinmaps
  - 2 SCOPE channels named V1 and V2 in the pinmaps
  - 1 FGEN channel named FGEN in the pinmaps
- - 4 PPMU channels named PPMU0, PPMU1, PPMU2, PPMU3
+ - 4 PPMU channels named PPMU0, PPMU1, PPMU2, PPMU3 in the pinmaps
 
 There are also system resources:
 - 1 PPS channel named VRelay to supply power to the relays
