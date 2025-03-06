@@ -19,7 +19,6 @@
 		<Item Name="RH_DCPower_Close.vi" Type="VI" URL="../VIs/RH_DCPower_Close.vi"/>
 		<Item Name="RH_DCPower_Configure.vi" Type="VI" URL="../VIs/RH_DCPower_Configure.vi"/>
 		<Item Name="RH_DCPower_ConfigureSequenceCapDC.vi" Type="VI" URL="../VIs/RH_DCPower_ConfigureSequenceCapDC.vi"/>
-		<Item Name="RH_DCPower_ConfigureSequenceCurrent.vi" Type="VI" URL="../VIs/RH_DCPower_ConfigureSequenceCurrent.vi"/>
 		<Item Name="RH_DCPower_Fetch.vi" Type="VI" URL="../VIs/RH_DCPower_Fetch.vi"/>
 		<Item Name="RH_DCPower_Initialize.vi" Type="VI" URL="../VIs/RH_DCPower_Initialize.vi"/>
 		<Item Name="RH_DCPower_Measure.vi" Type="VI" URL="../VIs/RH_DCPower_Measure.vi"/>
@@ -33,10 +32,6 @@
 		<Item Name="RH_PPMU_Configure.vi" Type="VI" URL="../VIs/RH_PPMU_Configure.vi"/>
 		<Item Name="RH_PPMU_Disconnect.vi" Type="VI" URL="../VIs/RH_PPMU_Disconnect.vi"/>
 		<Item Name="RH_PPMU_Initialize.vi" Type="VI" URL="../VIs/RH_PPMU_Initialize.vi"/>
-		<Item Name="RH_PPMU_Set0A.vi" Type="VI" URL="../VIs/RH_PPMU_Set0A.vi"/>
-		<Item Name="RH_PPMU_Set0V.vi" Type="VI" URL="../VIs/RH_PPMU_Set0V.vi"/>
-		<Item Name="RH_PPMU_SetCurrent.vi" Type="VI" URL="../VIs/RH_PPMU_SetCurrent.vi"/>
-		<Item Name="RH_PPMU_SetVoltage.vi" Type="VI" URL="../VIs/RH_PPMU_SetVoltage.vi"/>
 		<Item Name="RH_Relays_Close.vi" Type="VI" URL="../VIs/RH_Relays_Close.vi"/>
 		<Item Name="RH_Relays_ConnectDisconnect.vi" Type="VI" URL="../VIs/RH_Relays_ConnectDisconnect.vi"/>
 		<Item Name="RH_Relays_Initialize.vi" Type="VI" URL="../VIs/RH_Relays_Initialize.vi"/>

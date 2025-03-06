@@ -764,9 +764,6 @@
 			<Item Name="niDigitalLV_64.dll" Type="Document" URL="niDigitalLV_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="niFgen_32.dll" Type="Document" URL="niFgen_32.dll">
-				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
-			</Item>
 			<Item Name="niFgen_64.dll" Type="Document" URL="niFgen_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -776,7 +773,6 @@
 			<Item Name="niswitch_64.dll" Type="Document" URL="niswitch_64.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="RH_DCPower_Start.vi" Type="VI" URL="../Libraries/ResourceHandling/VIs/RH_DCPower_Start.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
