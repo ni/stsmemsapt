@@ -8,7 +8,7 @@ Select the [STS_MEMS_Offline_Mode_System_Configuration.offlinecfg](https://githu
 The simulated boards used in the test sequence are NI PXI-4110, NI PXIe-4137, NI PXIe-4147, NI PXIe-5433, NI PXIe-5172, NI PXIe-6571, NI PXI-2567.
 
 ## Software Requirements
-You must have the following software to use the STST MEMS Production TestProgram Example:
+You must have the following software to use the STST MEMS Production Sample Code:
 - STS Software Bundle 24.5.2 or later
 
 ## Getting Started
